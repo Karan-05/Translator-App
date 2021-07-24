@@ -1,2 +1,2 @@
 # Translator-App
-Android App Using Java and Firebase
+Android App Using Java and Firebase in Android Studio.
